@@ -1,3 +1,5 @@
+# Function to cache the inverse of a matrix
+
 makeCacheMatrix <- function(x = matrix()) {
   m<-NULL
   set<-function(y){
